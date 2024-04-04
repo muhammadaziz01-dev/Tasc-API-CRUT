@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "salomjonbek",
+      "age": "22",
+      "phone": "0587080833",
+      "id": "2743a37d-d0c3-4aa6-8f34-64dd074764a7"
+    },
+    {
+      "id": "f4a0e6cd-052d-4e55-a3e3-992f6cc57824",
+      "name": "salom",
+      "age": "22",
+      "phone": "345677"
+    },
+    {
+      "id": "88312b67-9fcc-4b64-888a-29a2a1dcb25e",
+      "name": "salom",
+      "age": "22",
+      "phone": "345677"
+    },
+    {
+      "id": "6056d561-6f93-4368-8c19-eedb93324e2c",
+      "name": "salom",
+      "age": "22",
+      "phone": "345677"
+    },
+    {
+      "id": "9ea92fce-0917-4b26-8714-3f5a69f5fc79",
+      "name": "slomon ",
+      "age": "22",
+      "phone": "4567878"
+    },
+    {
+      "name": "jonbekali",
+      "age": "22",
+      "phone": "456475",
+      "id": "961d9256-de00-48f6-9626-113dafe3dfae"
+    }
+  ]
+}
